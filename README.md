@@ -1,2 +1,2 @@
 # aMAZONcLONE_PROJECT
-Hii it's Me Manish
+Language Used:[Html,Css] 
